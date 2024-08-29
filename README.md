@@ -4,7 +4,7 @@
 
 <br>
  
- ##  Sejam bem vindos(as)!
+ ##  Sejam Bem Vindos(as)!
 
 - Fazendo graduação em Análise e Desenvolvimento de Sistemas _ SENAC :mortar_board:
 - Estagiária de Back-end na Compass UOL
