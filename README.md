@@ -7,7 +7,6 @@
  ##  Sejam Bem Vindos(as)!
 
 - Fazendo graduação em Análise e Desenvolvimento de Sistemas _ SENAC :mortar_board:
-- Estagiária de Back-end na Compass UOL
 - Utilizando VS Code e GitHub como ferramentas para desenvolvimento Full Stack
 - Compromisso contínuo com o aprendizado :rocket:
 
